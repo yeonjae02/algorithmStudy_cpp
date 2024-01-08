@@ -1,8 +1,8 @@
 # algorithmStudyWithBook
-Do it 알고리즘 코딩테스트 C++ 편을 공부하며 작성한 코드 저장소
+Do it! 알고리즘 코딩테스트 C++ 편을 공부하며 작성한 코드 저장소
 
 ### 📚교재
-Do it 알고리즘 코딩테스트 C++ (이지스퍼블리싱, 김종관)
+Do it! 알고리즘 코딩테스트 C++ (이지스퍼블리싱, 김종관)
 
 [정답 코드 보러 가기](https://github.com/doitcodingtest/C)
 
