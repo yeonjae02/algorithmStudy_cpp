@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+// BOJ 1300
+
 typedef long long ll;
 
 int main()
