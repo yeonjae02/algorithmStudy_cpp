@@ -41,9 +41,3 @@ int main()
 
 	return 0;
 }
-
-/*
-Âü°í 
-https://latter2005.tistory.com/63
-https://allmymight.tistory.com/90
-*/

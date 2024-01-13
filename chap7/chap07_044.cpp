@@ -46,3 +46,10 @@ int main()
 	for (int i = 0; i < n; i++) cout << arr[i].value << " ";
 	return 0;
 }
+
+
+/*
+reference solution
+https://latter2005.tistory.com/63
+https://allmymight.tistory.com/90
+*/
